@@ -3,7 +3,7 @@
 
 **Screenmatch Frases** é um projeto desenvolvido como parte do desafio **Oracle Next Education**. Este repositório é dedicado a armazenar e gerenciar as frases mais icônicas das séries que todos amamos, com um back-end Java e um front-end em HTML e JavaScript.
 
-![Tela do Projeto]frontend/tela-projeto)
+![Tela do Projeto](frontend/tela-projeto)
 
 ## 📜 Descrição
 
